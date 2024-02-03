@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Luis</h1>
-<h3 align="center">A passionate software engineer developer from Perú 🇵🇪</h3>
+<h1 align="center">Hi 👋, I'm Luis Blas</h1>
+<h3 align="center">A passionate fullstack software engineer developer from Perú</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joselito0015&label=Profile%20views&color=0e75b6&style=flat" alt="joselito0015" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joselito0015" alt="joselito0015" /></a> </p>
 
-- 🔭 I’m currently working on **Portero Seguro**
+- 🔭 I’m currently working on [Portero Seguro](https://porteroseguro.com/)
 
 - 🌱 I’m currently learning **AWS solution architecture.**
 
-- 👯 I’m looking to collaborate on [Startups projects](https://porteroseguro.com/)
+- 👯 I’m looking to collaborate on **Startups projects**
 
 - 💬 Ask me about **MPV, and lean startup!**
 
